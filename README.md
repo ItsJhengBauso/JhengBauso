@@ -1,5 +1,5 @@
 # JhengBauso
-<h2 align="left">Hi 👋! My name is Jheng Bauso and I'm a Front End Developer 👩‍💻, from from Philippines 🇵🇭</h2>
+<h2 align="left">Hi 👋! My name is Jheng Bauso and I'm a Front End Developer 👩‍💻, from Philippines 🇵🇭</h2>
 
 ###
 
